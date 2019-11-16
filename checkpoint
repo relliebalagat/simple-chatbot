@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/rellie/Documents/deep_learning/tensorflow/chatbot-tim/model.tflearn"
+all_model_checkpoint_paths: "/home/rellie/Documents/deep_learning/tensorflow/chatbot-tim/model.tflearn"
